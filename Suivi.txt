@@ -1,3 +1,14 @@
+There are number of communication technologies available for interaction between IoT devices today, and the most popular ones are WI-FI and bluetooth. the problem with these two devices is the high power power consumption. 
+They also have limitations like limited range, limited access points.
+
+Cellular networks also have the same problems of high power consumption and both LAN and Cellular network are quite expensive to cover a wide area . the IoT industries introduced lots of technologies, but none of them was ideal for IoT devices, until the LoRa technology was introduced. LoRa technology can perform very-long range transmission with low power consumption.
+
+
+LoRa (Long Range) is a wireless technology that offers long range, low power, and secure data transmission for machine to machine and Iot applications.in europe region it operates in the 868 MHZ band and according to thge official information, LoRa can acheive a distance of 715 km when there is no obstacle between the Node and Gateway.
+
+
+
+
 Issue: Testing sleep mode of ESP32 via external button to WakeUp
   -Programming ESP32 via Ftdi interface (uart0 + boot->GPIO0 + Rst->EN)
   -Test example code : going to sleep mode via external button to WakeUp (code : https://randomnerdtutorials.com/esp32-deep-sleep-arduino-ide-wake-up-sources/)
