@@ -5,4 +5,4 @@ Issue:  Testing sleep mode of ESP32 via RFM95
   Sub-Issue: Tx/Rx in LoRa 
             - Tranceiver: RFM95 / Receiver: Heltec  ESP32 (code:https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/)
              Changes on receiver code : ss 18 , dio0 26
-             - ESP32 wakeUp via dio0 (goes high when packet received )  
+             - ESP32 wakeUp via dio0 (goes high when packet received )    
